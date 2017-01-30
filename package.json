@@ -1,0 +1,18 @@
+{
+  "name": "node_api",
+  "version": "0.0.1",
+  "description": "Node.js API Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "Ismet Said Calik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
